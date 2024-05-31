@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+If vimming:
+`npm run dev > dev.log 2>&1 &`
+
 ```bash
 npm run dev
 # or
